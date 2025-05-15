@@ -14,14 +14,14 @@ I’m an MS CS student at the Rochester Institute of Technology, passionate abou
 
 ## 🚀 Featured Projects
 
-- **[GenForge](https://github.com/Pankhuri/genForge)**  
+- **[GenForge](https://github.com/Pankhuri/genforge)**  
   AI-powered scene editor built with ComfyUI.
-- **[Azul-WebGL](https://github.com/Pankhuri/azulOnline)**  
+- **[Online Azul](https://github.com/Pankhuri/azul-online)**  
   A 3D rendition of the board game Azul using Three.js.
-- **[RayTracer](https://github.com/Pankhuri/rayTracer)**  
+- **[Ray Tracer](https://github.com/Pankhuri/ray-tracer)**  
   Custom Python global illumination engine.
 
-*(See more in my [pinned repos](https://github.com/Pankhuri?tab=repositories) ↓)*
+*(See more in my [pinned repos](https://github.com/valkyrie26?tab=repositories) ↓)*
 
 ---
 
