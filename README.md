@@ -1,8 +1,3 @@
-╔═════════════════════════════════╗
-║     Welcome to Valkyrie’s Hub   ║
-╚═════════════════════════════════╝
-
-
 # 👋 Hi, I’m Pankhuri!
 
 I’m an MS CS student at the Rochester Institute of Technology, passionate about writing visually engaging code and bringing ideas to life.
