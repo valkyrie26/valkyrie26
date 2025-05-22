@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pankhuri!
 
-I’m an MS CS student at the Rochester Institute of Technology, passionate about writing visually engaging code and bringing ideas to life.
+I’m passionate about writing visually engaging code and bringing ideas to life.
 
 ---
 
@@ -14,8 +14,6 @@ I’m an MS CS student at the Rochester Institute of Technology, passionate abou
 
 ## 🚀 Featured Projects
 
-- **[GenForge](https://github.com/Pankhuri/genforge)**  
-  AI-powered scene editor built with ComfyUI.
 - **[Online Azul](https://github.com/Pankhuri/azul-online)**  
   A 3D rendition of the board game Azul using Three.js.
 - **[Ray Tracer](https://github.com/Pankhuri/ray-tracer)**  
