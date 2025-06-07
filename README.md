@@ -14,9 +14,9 @@ I’m passionate about writing visually engaging code and bringing ideas to life
 
 ## 🚀 Featured Projects
 
-- **[Online Azul](https://github.com/Pankhuri/azul-online)**  
+- **[Online Azul](https://github.com/valkyrie26/azul-online)**  
   A 3D rendition of the board game Azul using Three.js.
-- **[Ray Tracer](https://github.com/Pankhuri/ray-tracer)**  
+- **[Ray Tracer](https://github.com/valkyrie26/ray-tracer)**  
   Custom Python global illumination engine.
 
 *(See more in my [pinned repos](https://github.com/valkyrie26?tab=repositories) ↓)*
